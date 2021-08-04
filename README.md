@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @atulprakashjha
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Alogrithms and Data Structures
