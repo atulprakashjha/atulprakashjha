@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @atulprakashjha
+- 👋 Hi, I’m Atul Prakash Jha
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Alogrithms and Data Structures
